@@ -4,6 +4,8 @@ title: Welcome to my github learning blog!
 
 ##To-Do
 
+-[ ] Why isn't markdown working here???
+
 -[ ] Get comfortable with github vocabulary
 
 -[ ] Understand how to write code (Java and Python) with github.  What IDE am I using?  How do I debug, compile, run, etc?
